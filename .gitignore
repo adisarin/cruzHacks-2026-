@@ -1,5 +1,21 @@
-node_modules/
-.env
-venv/
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+backend/venv_H/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+
 
